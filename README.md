@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4cc9f0&center=true&vCenter=true&width=800&lines=Backend+Developer;Node.js+%7C+Django+Developer;REST+API+Engineer;Building+Scalable+Backend+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4cc9f0&center=true&vCenter=true&width=800&lines=Backend+Developer+;Node.js+%7C+Django+Enthusiast;Learning+and+Building+Scalable+APIs;Passionate+About+Server-Side+Development" />
 </p>
 
 ---
