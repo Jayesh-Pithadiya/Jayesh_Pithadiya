@@ -1,108 +1,114 @@
-<h1 align="center">Hi 👋, I'm Jayesh Pithadiya</h1>
-
+<!-- ========== HEADER (WEBSITE HERO) ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0AFFEF&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+Django+Developer;REST+API+Specialist;Open+to+Backend+Developer+Roles" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:3a86ff&height=230&section=header&text=Jayesh%20Pithadiya&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/jayesh-pithadiya" width="150" style="border-radius:50%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4cc9f0&center=true&vCenter=true&width=800&lines=Backend+Developer;Node.js+%7C+Django+Developer;REST+API+Engineer;Building+Scalable+Backend+Systems" />
 </p>
+
+---
+
+<!-- ========== ABOUT SECTION (IMAGE COVER STYLE) ========== -->
+<table align="center" width="100%">
+<tr>
+
+<td width="60%" valign="top">
+
+## 👨‍💻 About Me  
+
+Hi, I’m **Jayesh Pithadiya**, a **Backend Developer** focused on building **scalable, secure, and maintainable backend systems** using **Node.js** and **Django**.
+
+I recently completed a **6-month internship at Nexa Infotech**, where I worked on:  
+- REST API development  
+- Database design & integration  
+- Authentication & authorization  
+- Production-ready backend logic  
+
+I enjoy solving real-world problems through clean, structured code and well-designed APIs.  
+Currently, I am actively looking for opportunities where I can contribute to backend engineering and grow as a professional software developer.
+
+📍 **Rajkot, India**  
+💼 **Backend Developer (Open to opportunities)**  
+
+</td>
+
+<td width="40%" valign="top">
+
+<img src="https://avatars.githubusercontent.com/jayesh-pithadiya"
+     width="100%"
+     height="100%"
+     style="object-fit: cover; border-radius: 12px;" />
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧠 Tech Stack  
+
+### 🚀 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-0b132b?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-1c2541?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-3a86ff?style=for-the-badge&logo=django&logoColor=white)
+
+### 🎨 Frontend  
+![HTML](https://img.shields.io/badge/HTML-0b132b?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1c2541?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3a86ff?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React_(Basic)-0b132b?style=for-the-badge&logo=react&logoColor=white)
+
+### 🗄️ Database  
+![MongoDB](https://img.shields.io/badge/MongoDB-1c2541?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3a86ff?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📂 Projects  
+
+<table width="100%">
+<tr>
+<td width="33%">
+
+### 🟦 Task Management API  
+A secure REST API built with Node.js and Express for managing users and tasks.  
+Features include authentication, role-based access, and full CRUD operations.
+
+</td>
+<td width="33%">
+
+### 🟦 E-commerce Backend System  
+Backend system for handling products, orders, and users with scalable database design and structured API responses.
+
+</td>
+<td width="33%">
+
+### 🟦 Blog Platform API  
+A blog backend application with CRUD functionality, JWT-based authentication, and clean RESTful endpoints.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayesh-pithadiya">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-1c2541?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:jayesh.pithadiya.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-3a86ff?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
-
-Hi, I'm **Jayesh Pithadiya** — a **Backend Developer** specializing in **Node.js** and **Django**.
-
-I recently completed a **6-month internship at Nexa Infotech**, where I worked on real-world backend systems, **REST APIs**, and **database integration**. During this time, I gained hands-on experience in building **scalable, secure, and production-ready applications**.
-
-💡 I focus on writing **clean, efficient, and maintainable backend code** and I am actively seeking opportunities where I can contribute to backend systems and grow as a software developer.
-
-🎯 **Actively seeking Backend Developer opportunities to contribute to scalable production systems.**
-
-📍 Location: **Rajkot, India**
-
----
-
-## 💻 Tech Stack  
-
-### 🚀 Backend  
-- Node.js, Express.js  
-- Django (Python)  
-- REST API Development  
-
-### 🎨 Frontend  
-- HTML, CSS, JavaScript  
-- React.js (Basic)  
-
-### 🗄️ Database  
-- MongoDB  
-- PostgreSQL  
-
-### 🛠️ Tools  
-- VS Code  
-- Git & GitHub  
-- Amazon Q  
-- ChatGPT  
-- Antigravity  
-
----
-
-## 📂 Demo Projects (Will be updated)
-
-- 🔹 **Task Management API** – REST API for managing users and tasks with authentication  
-- 🔹 **E-commerce Backend System** – Product, order & user management backend  
-- 🔹 **Blog Platform Backend** – API for blogs with CRUD operations  
-
-_(Projects will be updated with live repositories soon 🚀)_
-
----
-
-## 🌱 Currently Learning  
-- Advanced Node.js  
-- Django REST Framework  
-- System Design Basics  
-
----
-
-## 🎯 Career Goal  
-To become a **professional Backend Developer** working on **large-scale production systems** and contributing to impactful real-world applications.
-
----
-
-## 📊 GitHub Stats  
+> 💬 **"First, solve the problem. Then, write the code."**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayesh-pithadiya&show_icons=true&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,100:1c2541&height=140&section=footer"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-pithadiya&theme=radical" />
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayesh-pithadiya&theme=dracula&margin-w=15" />
-</p>
-
----
-
-## ✨ Quote  
-
-> “First, solve the problem. Then, write the code.” – John Johnson
-
----
-
-⭐ From [jayesh-pithadiya](https://github.com/jayesh-pithadiya)
