@@ -72,21 +72,17 @@ Currently, I am actively looking for opportunities where I can contribute to bac
 <tr>
 <td width="33%">
 
-### 🟦 Task Management API  
-A secure REST API built with Node.js and Express for managing users and tasks.  
-Features include authentication, role-based access, and full CRUD operations.
+### 🟦 Pithadiya Tailor Web App 
+Full-stack React & Node.js application with secure JWT authentication, dynamic admin dashboard, and performance-optimized cinematic UI experience.
 
 </td>
 <td width="33%">
 
-### 🟦 E-commerce Backend System  
-Backend system for handling products, orders, and users with scalable database design and structured API responses.
+### 🟦 Smaranika Web App
+Django + Bootstrap platform for sharing and exploring historical heritage with user posting, category filtering, like system, and admin moderation
 
 </td>
-<td width="33%">
 
-### 🟦 Blog Platform API  
-A blog backend application with CRUD functionality, JWT-based authentication, and clean RESTful endpoints.
 
 </td>
 </tr>
