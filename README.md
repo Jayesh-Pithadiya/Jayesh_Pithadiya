@@ -78,21 +78,45 @@ Currently, I am actively looking for opportunities where I can contribute to bac
 
 ## 📂 Projects  
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
-<td width="50%">
 
-### 🟦 Pithadiya Tailor Web App 
-Full-stack React & Node.js application with secure JWT authentication, dynamic admin dashboard, and performance-optimized cinematic UI experience.
+<td width="33%" align="center" valign="top">
+
+<h3>🟦 Nexa Infotech RBAC Web Platform</h3>
+
+<p align="center">
+Django-based enterprise web application implementing 
+<b>Role-Based Access Control (Admin, HR, Publisher)</b> 
+with secure authentication, permission-based dashboards, 
+job & content management modules, approval workflows, 
+and scalable backend architecture.
+</p>
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center" valign="top">
 
-### 🟦 Smaranika Web App
-Django + Bootstrap platform for sharing and exploring historical heritage with user posting, category filtering, like system, and admin moderation.
+<h3>🟦 Pithadiya Tailor Web App</h3>
+
+<p align="center">
+Full-stack React & Node.js application with secure JWT authentication, 
+dynamic admin dashboard, and performance-optimized cinematic UI experience.
+</p>
 
 </td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🟦 Smaranika Web App</h3>
+
+<p align="center">
+Django + Bootstrap platform for sharing and exploring historical heritage 
+with user posting, category filtering, like system, and structured moderation workflow.
+</p>
+
+</td>
+
 </tr>
 </table>
 
