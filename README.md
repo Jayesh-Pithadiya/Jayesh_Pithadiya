@@ -9,7 +9,6 @@
 
 ---
 
-<!-- ========== ABOUT SECTION (IMAGE COVER STYLE) ========== -->
 <table align="center" width="100%">
 <tr>
 
@@ -54,11 +53,22 @@ Currently, I am actively looking for opportunities where I can contribute to bac
 ![Express](https://img.shields.io/badge/Express.js-1c2541?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-3a86ff?style=for-the-badge&logo=django&logoColor=white)
 
+---
+
+### 🔗 API Development  
+![REST API](https://img.shields.io/badge/REST_API-0b132b?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT Authentication](https://img.shields.io/badge/JWT-1c2541?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-3a86ff?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
 ### 🎨 Frontend  
 ![HTML](https://img.shields.io/badge/HTML-0b132b?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1c2541?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3a86ff?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React_(Basic)-0b132b?style=for-the-badge&logo=react&logoColor=white)
+
+---
 
 ### 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-1c2541?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -70,19 +80,17 @@ Currently, I am actively looking for opportunities where I can contribute to bac
 
 <table width="100%">
 <tr>
-<td width="33%">
+<td width="50%">
 
 ### 🟦 Pithadiya Tailor Web App 
 Full-stack React & Node.js application with secure JWT authentication, dynamic admin dashboard, and performance-optimized cinematic UI experience.
 
 </td>
-<td width="33%">
+
+<td width="50%">
 
 ### 🟦 Smaranika Web App
-Django + Bootstrap platform for sharing and exploring historical heritage with user posting, category filtering, like system, and admin moderation
-
-</td>
-
+Django + Bootstrap platform for sharing and exploring historical heritage with user posting, category filtering, like system, and admin moderation.
 
 </td>
 </tr>
