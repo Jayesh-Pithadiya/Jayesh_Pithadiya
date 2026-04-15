@@ -14,21 +14,23 @@
 
 <td width="60%" valign="top">
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-Hi, I’m **Jayesh Pithadiya**, a **Backend Developer** focused on building **scalable, secure, and maintainable backend systems** using **Node.js** and **Django**.
+Hi, I’m **Jayesh Pithadiya**, a **Jr. Backend Developer** focused on building **scalable, secure, and maintainable backend systems** using **Node.js** and **Django**.
 
-I recently completed a **6-month internship at Nexa Infotech**, where I worked on:  
-- REST API development  
-- Database design & integration  
-- Authentication & authorization  
-- Production-ready backend logic  
+I work on:
 
-I enjoy solving real-world problems through clean, structured code and well-designed APIs.  
-Currently, I am actively looking for opportunities where I can contribute to backend engineering and grow as a professional software developer.
+* REST API development
+* Database design & integration
+* Authentication & authorization
+* Production-ready backend logic
 
-📍 **Rajkot, India**  
-💼 **Backend Developer (Open to opportunities)**  
+Currently, I am working as a **Jr. Backend Developer at Paraacrypto**, building real-world backend systems with a strong focus on **secure APIs, clean architecture, and efficient database design**.
+
+I enjoy solving real-world problems through clean, structured code and well-designed APIs, and continuously improving my backend engineering skills.
+
+📍 **Vadodara, India**
+💼 **Jr. Backend Developer**
 
 </td>
 
