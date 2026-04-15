@@ -29,7 +29,7 @@ Currently, I am working as a **Jr. Backend Developer at Paraacrypto**, building 
 
 I enjoy solving real-world problems through clean, structured code and well-designed APIs, and continuously improving my backend engineering skills.
 
-📍 **Vadodara, India**
+📍 **Vadodara, India**<br>
 💼 **Jr. Backend Developer**
 
 </td>
